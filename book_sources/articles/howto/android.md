@@ -1,0 +1,1 @@
+僅建議使用 GMail 讀取 NCU 郵件, 於 Android 上安裝 GMail App 讀取
