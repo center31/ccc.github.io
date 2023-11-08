@@ -1,8 +1,8 @@
-# NCU Mail
-- [NCU Mail 登入問題解決流程](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/Login-Issue-Solving-Process)
+# LOGIN ISSUE SOP
+- [NCU Mail 登入問題解決流程](https://center31.github.io/articles/faq/soplogin.html)
 
-# Webmail
-- [NCUMail_FAQ](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/FAQ,-NCU-Mail)
+# NCU Mail
+- [NCUMail_FAQ](https://center31.github.io/articles/faq/faqncu.html)
 
 # GMail
-- [GMail_FAQ](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/FAQ,-NCU-Mail-via-GMail)
+- [GMail_FAQ](https://center31.github.io/articles/faq/faqgmail.html)

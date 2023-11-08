@@ -2,12 +2,6 @@
 
 * [NCU Mail Support](/README.md)
     * [最新消息/News](/articles/news.md)
-    * [連線安全性強化作業](/articles/events/tls/tls.md)
-        * [GmailTLS](/articles/events/tls/gmailtls.md)
-        * [Outlook2021TLS](/articles/events/tls/outlook2021tls.md)
-        * [Outlook2019TLS](/articles/events/tls/outlook2019tls.md)
-        * [iOSTLS](/articles/events/tls/iostls.md)
-        * [win7tlsv12TLS](/articles/events/tls/win7tlsv12.md)
     * [歷史/History](/articles/history.md)
 
 * [NCU Mail Basics](/articles/basics.md)
@@ -30,3 +24,10 @@
     * [LOGIN ISSUE SOP](/articles/faq/soplogin.md)
     * [NCU Mail FAQ](/articles/faq/faqncu.md)
     * [GMail FAQ](/articles/faq/faqgmail.md)
+
+* [連線安全性強化作業](/articles/events/tls/tls.md)
+    * [GmailTLS](/articles/events/tls/gmailtls.md)
+    * [Outlook2021TLS](/articles/events/tls/outlook2021tls.md)
+    * [Outlook2019TLS](/articles/events/tls/outlook2019tls.md)
+    * [iOSTLS](/articles/events/tls/iostls.md)
+    * [win7tlsv12TLS](/articles/events/tls/win7tlsv12.md)

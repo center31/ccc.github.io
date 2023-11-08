@@ -38,7 +38,7 @@
 
 ## 20230608 目前 GMail 新增/修改 NCU Mail SMTP Server 會失敗, 但先前已於 GMail 設定的 NCU Mail SMTP Server 可以正常使用。
 
-## 20230428 即日起執行 [NCU Mail 伺服器連線安全性強化作業](/articles/events/tls.md)
+## 20230428 即日起執行 [NCU Mail 伺服器連線安全性強化作業](https://center31.github.io/articles/events/tls/tls.html)
 
 ## 20230428 09:00-11:30 由於 WAF 運作不正常, NCU Mail 無法附加125KB以上的檔案, 已修復。
  
