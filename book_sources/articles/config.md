@@ -1,3 +1,4 @@
+## 
 ## 內送郵件(POP3)伺服器:
 - 類型: pop3
 - Server: pop3.cc.ncu.edu.tw
