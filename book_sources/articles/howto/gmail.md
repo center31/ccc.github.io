@@ -1,5 +1,3 @@
-建議使用 GMail 讀取 NCU 郵件, 於 iOS 上安裝 GMail App 讀取
-
 ## 進入設定
 ![](https://in.ncu.edu.tw/center31/GMail_config/GMail_config01.png)
 ## 收信設定

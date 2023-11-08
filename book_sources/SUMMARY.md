@@ -5,9 +5,9 @@
     * [歷史/History](articles/history.md)
 
 * [NCU Mail Basics]
-    * [Email Address](articles/basics.md#email-address)
-    * [停用/Suspend](articles/limits.md#電子郵件停用email-address-suspend)
-    * [使用限制/Usage limits](articles/limits.md#電子郵件使用限制usage-limits)
+    * [Email Address](articles/basics.md)
+    * [停用/Suspend](articles/suspend.md)
+    * [使用限制/Usage limits](articles/limits.md)
     * [使用規範/Terms of Use](articles/terms.md)
 
 * [開始讀取郵件/Access Emails Now](articles/access.md)

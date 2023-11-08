@@ -1,3 +1,5 @@
+建議使用 GMail 讀取 NCU 郵件, 於 iOS 上安裝 GMail App 讀取
+
 ![](https://in.ncu.edu.tw/center31/ios_config/ios_01.jpg)
 
 ![](https://in.ncu.edu.tw/center31/ios_config/ios_02.jpg)
