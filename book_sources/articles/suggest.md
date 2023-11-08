@@ -1,4 +1,4 @@
-## 使用建議
+# 使用建議
 ```
 除使用 Webmail(https://mail.ncu.edu.tw) 外,
 使用者也應使用您的電腦(PC軟體,eg:Outlook, thunderbird)將信件取回;
