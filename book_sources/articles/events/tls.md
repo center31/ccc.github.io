@@ -11,7 +11,7 @@
 ## 立即檢查您的加密連線是否已啟用
 ---
 ### 使用 GMail, 請參考以下文件檢查是否已啟用加密連線:
-- [GMail Configuration Check ](articles/events/gmailtls.md)
+- [GMail Configuration Check ](/articles/events/gmailtls.md)
 - 需求: 您需要記得您 NCU Mail 的密碼, 因為 GMail 會要求您再次輸入
 - 變更密碼/忘記密碼: [https://www.cc.ncu.edu.tw/page/account_password](https://www.cc.ncu.edu.tw/page/account_password)
 
@@ -19,36 +19,24 @@
 - 打開 檔案總管, 於左側使用滑鼠右鍵點選"本機" -> "內容", 即可得知 Windows 版本
 - 請使用 Microsoft 支援中的 Windows 10/11
 - Microsoft 已不支援 Windows 8.1(含) 之前的 Windows 版本
-- for Windwos 7 使用者, [Windows 7 啟用 TLS 1.2](articles/events/win7tlsv12.md)
+- for Windwos 7 使用者, [Windows 7 啟用 TLS 1.2](/articles/events/win7tlsv12.md)
 
 ### 我的 Outlook 版本是?
 - 打開 Outlook, 於左上角點選"檔案" -> "Office 帳戶", 即可得知 Outlook 版本
 
 ### 使用 Outlook 2021, 請參考以下文件檢查是否已啟用加密連線:
-#### [Outlook 2021 Configuration Check](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/Outlook-2021-Configuration-Check)
+#### [Outlook 2021 Configuration Check](/aiticles/events/outlook2021tls.md)
 
 #### 使用 Outlook 2019/2016, 請參考以下文件檢查是否已啟用加密連線:
-  - [Outlook Configuration Check](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/Outlook-Configuration-Check)
+  - [Outlook Configuration Check](/aiticles/events/outlook2019tls.md)
 
 #### 使用 iOS, 請參考以下文件檢查是否已啟用加密連線:
-  - [IOS Configuration Check](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/IOS-Configuration-Check)
+  - [IOS Configuration Check](/articles/events/iostls.md)
 
 #### 使用其它的客戶端軟體:
 - google: 軟體名稱 + "啟用tls"
-- 並參考 NCU Mail 的設定:
+- 並參考 [NCU Mail 的設定](/articles/config.md)
 
-```
-內送郵件(POP3)伺服器: 
-    - 類型: pop3
-    - Server: pop3.cc.ncu.edu.tw
-    - Port+安全性: 995+TLS
-```
-
-```
-外寄郵件(SMTP)伺服器:
-    - Server: smtp.cc.ncu.edu.tw
-    - Port+安全性:  587+StartTLS
-```
 
 ### 若您使用以下軟體, 將無法使用 NCU Mail
 ---

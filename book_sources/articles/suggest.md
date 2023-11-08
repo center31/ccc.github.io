@@ -1,8 +1,8 @@
 # 使用建議
 >除使用 Webmail(https://mail.ncu.edu.tw) 外,
-使用者也應使用您的電腦(PC軟體,eg:Outlook, thunderbird)將信件取回;
-唯有使用您的電腦將信件取回, 您的信件才真正被您個人保存,
-而非受制於外部服務。
+>使用者也應使用您的電腦(PC軟體,eg:Outlook, thunderbird)將信件取回;
+>唯有使用您的電腦將信件取回, 您的信件才真正被您個人保存,
+>而非受制於外部服務。
 
 |        | NCU Webmail | PC軟體<br>(eg.Outlook, thunderbird) | @g.ncu.edu.tw | @gmail.com |
 |  ----  | ----  | ---- |  ----  | ----  | 
