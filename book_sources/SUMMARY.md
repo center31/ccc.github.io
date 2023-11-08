@@ -1,8 +1,7 @@
 # SUMMARY
-# NCU Mail Support
 
 What you should know
----
+======
 * [NCU Mail Support](README.md)
 * [公告/Announce](articles/announce.md)
     * [歷史/History](articles/history.md)
@@ -11,8 +10,8 @@ What you should know
 * [電子郵件服務期限&狀態](articles/validity.md)
 * [設定/Config](articles/config.md)
 
-HowToDos
----
+HowTos
+======
 * [設定教學/HowTo](articles/howtodo.md)
     * [Outlook](articles/howto/outlook.md)
         * [Outlook 2021](articles/howto/outlook2021.md)
