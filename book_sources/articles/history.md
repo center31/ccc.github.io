@@ -43,7 +43,7 @@
 
 ## 2023-06-08 目前 GMail 新增/修改 SMTP Server 會失敗, 但先前已於 GMail 設定的 SMTP Server 可以正常使用。
 
-## 2023-04-28 即日起執行 [NCU Mail 伺服器連線安全性強化作業](https://support.mail.ncu.edu.tw/articles/events/tls/tls.html)
+## 2023-04-28 即日起執行 [NCU Mail 伺服器連線安全性強化作業](https://support.mail.ncu.edu.tw/articles/events/tls.html)
 
 ## 2023-04-28 09:00-11:30 由於 WAF 運作不正常, Webmail 無法附加125KB以上的檔案, 已修復。
  
@@ -73,7 +73,7 @@
 - 對象: 使用 GMail 存取 NCU Mail 的使用者
 - 狀況: GMail 存取 NCU Mail 的頻率並不固定, 有時可能不夠即時;
 - 解決: 若希望 GMail 立即存取 NCU Mail
-    - 請參考 [GMail_FAQ/Q1](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/FAQ,-NCU-Mail-via-GMail);
+    - 請參考 [GMail_FAQ](https://support.mail.ncu.edu.tw/articles/faq/faqgmail.html);
     - 您也可以使用 https://mail.ncu.edu.tw 讀取信件, 更為即時。
 - 真相: 最短隔41分鐘, 最長隔60分鐘
 ![](https://in.ncu.edu.tw/center31/home/2023-02-15_174602.png)
