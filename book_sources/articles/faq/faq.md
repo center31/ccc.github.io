@@ -1,8 +1,8 @@
 # LOGIN ISSUE SOP
-- [NCU Mail 登入問題解決流程](https://center31.github.io/articles/faq/soplogin.html)
+- [NCU Mail 登入問題解決流程](https://support.mail.ncu.edu.tw/articles/faq/soplogin.html)
 
 # NCU Mail
-- [NCUMail_FAQ](https://center31.github.io/articles/faq/faqncu.html)
+- [NCUMail_FAQ](https://support.mail.ncu.edu.tw/articles/faq/faqncu.html)
 
 # GMail
-- [GMail_FAQ](https://center31.github.io/articles/faq/faqgmail.html)
+- [GMail_FAQ](https://support.mail.ncu.edu.tw/articles/faq/faqgmail.html)

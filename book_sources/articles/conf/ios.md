@@ -1,9 +1,8 @@
 # iOS Configuration
 ---
 
-## 建議:
-- 若想使用手機收信, 建議使用 GMail 讀取 NCU 郵件, 再於手機上安裝 GMail App 讀取
-    - 優點: 不佔手機空間
+## 提醒:
+- 使用 iOS 郵件/Mail App 收信, 將佔據手機容量
 
 ## iOS 郵件/Mail App 設定
 ---

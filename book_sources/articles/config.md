@@ -10,8 +10,5 @@
 ## 外寄郵件(SMTP)伺服器:
 - Server: smtp.cc.ncu.edu.tw
 - Port+安全性:  587+StartTLS
+    - 沒有StartTLS, 選TLS; 該軟體用詞不正確
     - 僅支援 TLS 1.2 以上
-- for Outook:
-    - 我的外寄伺服器需要驗證:  是
-- for iOS Mail/郵件 App:
-    - 使用者名稱 & 密碼 是必填, "不"可留空
