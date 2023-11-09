@@ -2,7 +2,7 @@
 ![](https://in.ncu.edu.tw/center31/uss/USS_20230428.svg)
 
 - Webmail(aka. NCU Mail/NCU Mail Web): [https://mail.ncu.edu.tw](https://mail.ncu.edu.tw)
-- 加密連線檢查: [https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/NCU-Mail-Secure-Connection#立即檢查您的加密連線是否已啟用](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/NCU-Mail-Secure-Connection#立即檢查您的加密連線是否已啟用)
+- 加密連線檢查: [立即檢查您的加密連線是否已啟用](../events/tls.html#立即檢查您的加密連線是否已啟用)
 - 設定教學: [https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/home#設定config](https://github1.cc.ncu.edu.tw/center31/ncumail/-/wikis/home#設定config) 
   - 設定都對, 可是還是不能登入: 檢查帳號部分是否有打錯。
 - 復用/解鎖:

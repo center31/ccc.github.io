@@ -73,7 +73,7 @@
 - 對象: 使用 GMail 存取 NCU Mail 的使用者
 - 狀況: GMail 存取 NCU Mail 的頻率並不固定, 有時可能不夠即時;
 - 解決: 若希望 GMail 立即存取 NCU Mail
-    - 請參考 [GMail_FAQ](https://support.mail.ncu.edu.tw/articles/faq/faqgmail.html);
+    - 請參考 [GMail_FAQ](faq/faqgmail.html);
     - 您也可以使用 https://mail.ncu.edu.tw 讀取信件, 更為即時。
 - 真相: 最短隔41分鐘, 最長隔60分鐘
 ![](https://in.ncu.edu.tw/center31/home/2023-02-15_174602.png)

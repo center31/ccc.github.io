@@ -5,7 +5,6 @@
     * [歷史消息/History](/articles/history.md)
 
 * [NCU Mail Basics](/articles/basics.md)
-    * [Test](/articles/test.md)
     * [密碼政策/Password Policy](/articles/password.md)
     * [停用/Suspend](/articles/suspend.md)
     * [使用限制/Usage limits](/articles/limits.md)

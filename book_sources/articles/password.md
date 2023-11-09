@@ -30,16 +30,16 @@
 - 打開 Outlook, 於左上角點選"檔案" -> "Office 帳戶", 即可得知 Outlook 版本
 
 #### 使用 Outlook 2021, 請參考以下文件更新密碼:
-- [Outlook 2021 Configuration Check](https://support.mail.ncu.edu.tw/articles/confcheck/confc_outlook2021.html)
+- [Outlook 2021 Configuration Check](confcheck/confc_outlook2021.html)
 
 #### 使用 Outlook 2019/2016, 請參考以下文件更新密碼:
-- [Outlook Configuration Check](https://support.mail.ncu.edu.tw/articles/confcheck/confc_outlook2019.html)
+- [Outlook Configuration Check](confcheck/confc_outlook2019.html)
 
 ---
 ### 使用 iOS, 請參考以下文件更新密碼:
-- [IOS Configuration Check](https://support.mail.ncu.edu.tw/articles/confcheck/confc_ios.html)
+- [IOS Configuration Check](confcheck/confc_ios.html)
 
 ---
 ### 使用其它的客戶端軟體:
 - google: 軟體名稱 + "啟用tls"
-- 並參考 [NCU Mail 的設定](https://support.mail.ncu.edu.tw/articles/config.html)
+- 並參考 [NCU Mail 的設定](config.html)

@@ -1,5 +1,7 @@
 # Windows 7 啟用 TLS 1.2
-## ref https://support.microsoft.com/zh-tw/topic/c4bd73d2-31d7-761e-0178-11268bb10392
+---
+
+## 參考 https://support.microsoft.com/zh-tw/topic/c4bd73d2-31d7-761e-0178-11268bb10392
 ## 摘錄必要部分
 - 1. 前題確認您的 Windows 7 版本, 系統類型為何
     - 確認 "Windows 版本" 部分是否包含 "Service Pack 1"

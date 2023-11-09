@@ -1,3 +1,6 @@
+# GMail Configuration Check / Update Password
+---
+
 # 注意:
 - 僅可使用 PC版網頁GMail 設定
     - GMail App 或 手機版網頁GMail 無法設定
