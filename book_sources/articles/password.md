@@ -30,7 +30,7 @@
 - 打開 Outlook, 於左上角點選"檔案" -> "Office 帳戶", 即可得知 Outlook 版本
 
 #### 使用 Outlook 2021, 請參考以下文件更新密碼:
-  - [Outlook 2021 Configuration Check](/articles/confcheck/confc_outlook2021.html)
+  - [Outlook 2021 Configuration Check](https://support.mail.ncu.edu.tw/articles/confcheck/confc_outlook2021.html)
 {% content-ref url="./" %} . {% endcontent-ref %}
 
 #### 使用 Outlook 2019/2016, 請參考以下文件更新密碼:
