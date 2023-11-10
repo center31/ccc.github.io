@@ -1,6 +1,5 @@
 {
     "author": "center31",
-    // "description": "NCU Mail 公告、文件、常見問題",
     "language": "zh-tw",
     "plugins": [
         "chapter-fold",
