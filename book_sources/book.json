@@ -1,76 +1,9 @@
 {
-    "plugins": [
-        "back-to-top-button",
-        "chapter-fold",
-        "expandable-chapters",
-        "-lunr",
-        "-search",
-        "search-pro",
-        "splitter",
-        "-sharing",
-        "sharing-plus",
-        "pageview-count",
-        "collapsible-menu",
-        "hide-element",
-        "anchor-navigation-ex",
-        "tbfed-pagefooter",
-        "disqus"
-    ],
-    // "title": "书本的标题",
     "author": "center31",
-    "description": "NCU Mail 公告、文件、常見問題",
+    // "description": "NCU Mail 公告、文件、常見問題",
     "language": "zh-tw",
-    "pluginsConfig": {
-        "tbfed-pagefooter": {
-            "copyright": "",
-            "modify_label": "文件修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "disqus": {
-            "shortName": "gitbookuse"
-        },
-        "sharing": {
-            "douban": false,
-            "facebook": false,
-            "google": true,
-            "hatenaBookmark": false,
-            "instapaper": false,
-            "line": true,
-            "linkedin": true,
-            "messenger": false,
-            "pocket": false,
-            "qq": false,
-            "qzone": true,
-            "stumbleupon": false,
-            "twitter": false,
-            "viber": false,
-            "vk": false,
-            "weibo": true,
-            "whatsapp": false,
-            "all": [
-                "douban",
-                "facebook",
-                "google",
-                "hatenaBookmark",
-                "instapaper",
-                "linkedin",
-                "twitter",
-                "weibo",
-                "messenger",
-                "qq",
-                "qzone",
-                "viber",
-                "vk",
-                "weibo",
-                "pocket",
-                "stumbleupon",
-                "whatsapp"
-            ]
-        },
-        "hide-element": {
-            "elements": [
-                ".gitbook-link"
-            ]
-        }
-    }
+    "plugins": [
+        "chapter-fold",
+        "-search"
+    ]
 }
