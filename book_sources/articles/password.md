@@ -35,11 +35,10 @@
 #### 使用 Outlook 2019/2016, 請參考以下文件更新密碼:
 - [Outlook Configuration Check](confcheck/confc_outlook2019.html)
 
----
 ### 使用 iOS, 請參考以下文件更新密碼:
 - [IOS Configuration Check](confcheck/confc_ios.html)
 
----
+
 ### 使用其它的客戶端軟體:
 - google: 軟體名稱 + "啟用tls"
 - 並參考 [NCU Mail 的設定](config.html)
