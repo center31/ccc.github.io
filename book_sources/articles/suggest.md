@@ -27,10 +27,10 @@
 |  ----  | ----  | ---- |  ----  | ----  | 
 |空間限制 | 教職員 20G<br>學生 2G<br>(此為限制,非保證可用) | 視硬碟大小<br>100G~ | 20GB<br>(共用容量) | 15GB |
 |郵件實際存於| 雲端 | PC | 雲端 | 雲端 |
-|我實際保存我的信件| NO(Webmail保存) | YES | NO(GMail保存) | NO(GMail保存) |
-|無網路可否存取| NO | YES | NO | NO |
-|伺服器損毀時可否讀取舊信| NO | YES | NO | NO |
-|畢業五年後可否讀取舊信| NO | YES | NO | YES |
-|教職員離職後可否讀取舊信| NO | YES | NO | YES |
-|教職員退休後可否讀取舊信| YES(容量限縮) | YES | NO | YES |
-|教職員公務使用是否違法| NO | NO | YES?NO? | YES |
+|保存信件於我的電腦| NO(Webmail保存) | YES | NO(GMail保存) | NO(GMail保存) |
+|無網路可存取| NO | YES | NO | NO |
+|伺服器損毀時可讀取舊信| NO | YES | NO | NO |
+|畢業五年後可讀取舊信| NO | YES | NO | YES |
+|教職員離職後可讀取舊信| NO | YES | NO | YES |
+|教職員退休後可讀取舊信| YES(容量限縮) | YES | NO | YES |
+|公務使用合法| YES | YES | YES?NO? | NO |

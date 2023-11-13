@@ -21,7 +21,7 @@
     * [iOS](/articles/conf/ios.md)
 
 * [常見問題/FAQ](/articles/faq/faq.md)
-    * [LOGIN ISSUE SOP](/articles/faq/soplogin.md)
+    * [登入問題解決流程/LOGIN ISSUE SOP](/articles/diagrams/login.md)
     * [NCU Mail FAQ](/articles/faq/faqncu.md)
     * [GMail FAQ](/articles/faq/faqgmail.md)
 
