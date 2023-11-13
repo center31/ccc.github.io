@@ -1,11 +1,11 @@
-```mermaid
+{% mermaid %}
 graph TD
 subgraph SOP
 C -->|成功| D{身份確認}
 A{問題} -->B[Webmail登入失敗]
 B -->C{使用email帳號登入Portal測試}
 C -->|失敗| E[密碼錯誤]
-A -->F["第三方軟體登入失敗\n(e.g.Outlook, GMail, thunderbird)"]
+A -->F["第三方軟體登入失敗(e.g.Outlook, GMail, thunderbird)"]
 F -->G{登入Webmail測試}
 G -->|成功| H[第三方軟體設定錯誤]
 G -->|失敗| C
@@ -23,7 +23,7 @@ H -->R([#2])
 J -->L([#3])
 K -->NL([#4])
 end
-```
+{% endmermaid %}
 
 <br>
 
