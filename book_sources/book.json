@@ -3,7 +3,7 @@
     "language": "zh-tw",
     "plugins": [
         "chapter-fold",
-        "mermaid",
+        "mermaid-gb3",
         "-search"
     ]
 }
