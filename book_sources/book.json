@@ -1,9 +1,0 @@
-{
-    "author": "center31",
-    "language": "zh-tw",
-    "plugins": [
-        "chapter-fold",
-        "mermaid",
-        "-search"
-    ]
-}
